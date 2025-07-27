@@ -1,2 +1,2 @@
 # stdio-proxy
-proxy stdio to from servcies using stdiio as transport
+proxy stdio to from services using stdio as transport
